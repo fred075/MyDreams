@@ -17,6 +17,14 @@ Solution
 - Everytime you want to save money for this dream, you withdraw it and you allocate it to a particular dream
 - This tool allows it to see how far you are from the total sum
 
+Technologies
+========
+- PHP OOP
+- Smarty
+- Responsive (Bootstrap)
+- SASS
+
+
 ![alt tag](https://github.com/fred075/MyDreams/blob/master/Doc/screenshot1.png)
 ![alt tag](https://github.com/fred075/MyDreams/blob/master/Doc/screenshot2.png)
 ![alt tag](https://github.com/fred075/MyDreams/blob/master/Doc/screenshot3.png)
