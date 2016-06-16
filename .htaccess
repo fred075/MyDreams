@@ -1,0 +1,2 @@
+RewriteEngine on
+RedirectMatch my_dreams/$ /my_dreams/dreams.php

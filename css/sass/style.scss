@@ -1,0 +1,135 @@
+$text_complete : #E4E4E4;
+$text : #333;
+$selected : #337ab7;
+
+#page-wrapper {
+	margin: 0px;
+}
+
+#page-wrapper, #page-inner {
+	min-height: initial;
+}
+
+.clr {
+	clear: both;
+}
+
+#formAddSaving #div_money_amount > div {
+	text-align: center;
+}
+
+.nav .current {
+	background-color: #F3F3F3; 
+	a i {
+		color: $selected;	
+	}
+	
+}
+
+.spacing {
+	height: 15px;
+	clear: both;
+}
+
+
+.complete {
+	color: $text_complete;
+
+	h4, i {
+		color: $text_complete;
+	}
+}
+
+.fa.xs {
+	font-size: 2rem;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+}
+
+.div_amount {
+	a, input[type=text] {
+		width: 28px;
+		display: inline-block;
+	}
+	input[type=submit] {
+		display: block;
+	}
+}
+
+.page-header {
+	float:left;
+}
+
+.breadcrumb {
+	clear: both;
+}
+
+.modal-body div label {
+	width: 55px;
+}
+
+.list_dreams {
+	.panel-heading {
+		padding: 15px 10px;
+	}
+	input[type=checkbox] {
+		margin-right:15px;
+	}
+}
+
+.dream_detail {
+	.panel-heading h4 {
+		padding-top: 0px;
+	}
+	.panel-body span {
+		display: block;
+	}
+
+	#wrap {
+	    float: left;
+	    position: relative;
+	    left: 50%;
+	}
+	#content {
+	    float: left;
+	    position: relative;
+	    left: -50%;
+	}
+
+}
+
+.list_dreams {
+	a {
+		color: $text;
+	}
+}
+
+#history_back {
+	display: block;
+	text-align:left;
+	padding: 0px;
+	padding-bottom: 15px;
+}
+
+.alert-warning {
+	position: fixed;
+	z-index: 1000;
+	bottom: 0px;
+}
+
+.done a {
+	color: #CDB5B5;
+}
+
+.panel-footer {
+	min-height: 50px;
+	
+}

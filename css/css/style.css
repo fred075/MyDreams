@@ -1,0 +1,144 @@
+/* line 5, ../sass/style.scss */
+#page-wrapper {
+  margin: 0px;
+}
+
+/* line 9, ../sass/style.scss */
+#page-wrapper, #page-inner {
+  min-height: initial;
+}
+
+/* line 13, ../sass/style.scss */
+.clr {
+  clear: both;
+}
+
+/* line 17, ../sass/style.scss */
+#formAddSaving #div_money_amount > div {
+  text-align: center;
+}
+
+/* line 21, ../sass/style.scss */
+.nav .current {
+  background-color: #F3F3F3;
+}
+/* line 23, ../sass/style.scss */
+.nav .current a i {
+  color: #337ab7;
+}
+
+/* line 29, ../sass/style.scss */
+.spacing {
+  height: 15px;
+  clear: both;
+}
+
+/* line 35, ../sass/style.scss */
+.complete {
+  color: #E4E4E4;
+}
+/* line 38, ../sass/style.scss */
+.complete h4, .complete i {
+  color: #E4E4E4;
+}
+
+/* line 43, ../sass/style.scss */
+.fa.xs {
+  font-size: 2rem;
+}
+
+/* line 47, ../sass/style.scss */
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+}
+
+/* line 58, ../sass/style.scss */
+.div_amount a, .div_amount input[type=text] {
+  width: 28px;
+  display: inline-block;
+}
+/* line 62, ../sass/style.scss */
+.div_amount input[type=submit] {
+  display: block;
+}
+
+/* line 67, ../sass/style.scss */
+.page-header {
+  float: left;
+}
+
+/* line 71, ../sass/style.scss */
+.breadcrumb {
+  clear: both;
+}
+
+/* line 75, ../sass/style.scss */
+.modal-body div label {
+  width: 55px;
+}
+
+/* line 80, ../sass/style.scss */
+.list_dreams .panel-heading {
+  padding: 15px 10px;
+}
+/* line 83, ../sass/style.scss */
+.list_dreams input[type=checkbox] {
+  margin-right: 15px;
+}
+
+/* line 89, ../sass/style.scss */
+.dream_detail .panel-heading h4 {
+  padding-top: 0px;
+}
+/* line 92, ../sass/style.scss */
+.dream_detail .panel-body span {
+  display: block;
+}
+/* line 96, ../sass/style.scss */
+.dream_detail #wrap {
+  float: left;
+  position: relative;
+  left: 50%;
+}
+/* line 101, ../sass/style.scss */
+.dream_detail #content {
+  float: left;
+  position: relative;
+  left: -50%;
+}
+
+/* line 110, ../sass/style.scss */
+.list_dreams a {
+  color: #333;
+}
+
+/* line 115, ../sass/style.scss */
+#history_back {
+  display: block;
+  text-align: left;
+  padding: 0px;
+  padding-bottom: 15px;
+}
+
+/* line 122, ../sass/style.scss */
+.alert-warning {
+  position: fixed;
+  z-index: 1000;
+  bottom: 0px;
+}
+
+/* line 128, ../sass/style.scss */
+.done a {
+  color: #CDB5B5;
+}
+
+/* line 132, ../sass/style.scss */
+.panel-footer {
+  min-height: 50px;
+}
